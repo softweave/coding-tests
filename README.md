@@ -1,4 +1,4 @@
 coding-tests
 ============
 
-Some job interview coding tests.
+Assorted job interview coding tests implemented in Java.
